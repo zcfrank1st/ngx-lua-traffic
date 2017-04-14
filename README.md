@@ -12,6 +12,10 @@ ngx-traffic-plugin
 
 1. 参考traffic.conf配置即可
 
+#### TODO
+
+可以将目前lua脚本实现的限流通过ngx c module实现，用以提升性能
+
 #### Licence
 
 MIT
